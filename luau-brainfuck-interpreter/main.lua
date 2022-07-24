@@ -1,4 +1,4 @@
--- this is a brainfuck compiler in luau, roblox's version of lua. ( https://github.com/Roblox/luau )
+-- this is a brainfuck interpreter in luau, roblox's version of lua. ( https://github.com/Roblox/luau )
 
 local bf = { }
 
